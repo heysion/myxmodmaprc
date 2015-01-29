@@ -1,8 +1,9 @@
 # myxmodmaprc
 xmodmaprc
 
-```bash
 xmodmap .xmodmaprc
+
+```bash
 tab
 caps lock
 shift
