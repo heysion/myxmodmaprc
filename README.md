@@ -5,7 +5,7 @@ xmodmap .xmodmaprc
 
 ```bash
 tab
-caps lock
+caps-lock
 shift
 fn ctrl win  alt space alt
 
